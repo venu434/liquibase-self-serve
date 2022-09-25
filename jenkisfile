@@ -1,4 +1,4 @@
-@Library('mylibrary') _
+@Library('liquibase-self-serve') _
 
 import com.cleverbuilder.GlobalVars
 import com.cleverbuilder.SampleClass
