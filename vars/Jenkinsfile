@@ -1,4 +1,4 @@
 @Library(['liquibase-self-serve@main']) _
-pipeline{
+main{
 age = "29"
 }
