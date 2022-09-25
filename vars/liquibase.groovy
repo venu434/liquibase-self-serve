@@ -28,6 +28,7 @@ agent {
   stages {  
   stage ('checking config') {
       steps {
+          echo "stage"
           echo "AGE= ${age}"
         } // steps
   } // stage
